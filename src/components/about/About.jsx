@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Web Developer, Everthing started with passion for web technologies, Development to produce high-quality websites and exceptional user experience, I have years of experience and many clients are happy with the projects carried out.
+            Everthing started with passion for web technologies, Development to produce high-quality websites and exceptional user experience, I have years of experience and many clients are happy with the projects carried out.
           </p>
           <a download="" href={Resume} className="button button--flex">Download Resume <svg
             class="button__icon"

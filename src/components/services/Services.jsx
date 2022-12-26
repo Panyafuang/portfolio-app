@@ -67,11 +67,11 @@ const Services = () => {
             </div>
           </div>
         </div>
-      {/* IT Support */}
+      {/* IT Engineer */}
         <div className="services__content">
           <div>
             <i className="bx bx-desktop services__icon"></i>
-            <h3 className="services__title">IT <br /> Support</h3>
+            <h3 className="services__title">IT <br /> Engineer</h3>
           </div>
 
           <span onClick={() => toggleTab(3)} className="services__button">
@@ -81,7 +81,7 @@ const Services = () => {
           <div className={toggleState === 3 ? "services__modal active-modal" : "services__modal"}>
             <div className="services__modal-content">
               <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
-              <h3 className="services__modal-title">IT Support</h3>
+              <h3 className="services__modal-title">IT Engineer</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience. Providing quality work to companies.
               </p>
