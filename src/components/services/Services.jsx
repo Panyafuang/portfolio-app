@@ -36,31 +36,36 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  พัฒนา Web Application ในรูปแบบ RESTful API
+                  {/* พัฒนา Web Application ในรูปแบบ RESTful API */}
+                  Develop Web applications to support company's and get requirement from user.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  พัฒนาส่วน Front-End โดยใช้ภาษา HTML, CSS, JavaScript TypeScript, Angular Framework
+                  {/* พัฒนาส่วน Front-End โดยใช้ภาษา HTML, CSS, JavaScript TypeScript, Angular Framework */}
+                  Analyze, design, develop, as well as implement RESTful services and APIs
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  CSS Framework Bootstrap, Angular Material
+                  {/* CSS Framework Bootstrap, Angular Material */}
+                  Apply the latest software design techniques and contribute to the technical design of new solutions
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  พัฒนาส่วน Back-End โดยใช้ Node.js, PHP, MySQL, MS SQL Server
+                  Modify and maintain the existing applications to meet business requirements.
+                  {/* พัฒนาส่วน Back-End โดยใช้ Node.js, PHP, MySQL, MS SQL Server */}
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  เทคโนโลยีที่ใช้ GIT, Docker, Redis, Elasticsearch, Firebase, kafka
+                  Write object-oriented, clean, and maintainable code
+                  {/* เทคโนโลยีที่ใช้ GIT, Docker, Redis, Elasticsearch, Firebase, kafka */}
                   </p>
                 </li>
               </ul>
@@ -90,37 +95,43 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                    ดูแลแก้ไข Hardware, Software, โปรแกรม ERP
+                    {/* ดูแลแก้ไข Hardware, Software, โปรแกรม ERP */}
+                    Support and troubleshooting of hardware, sofrware, ERP problems to the end-users.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                   บริหารจัดการ User account, Email account
+                   {/* บริหารจัดการ User account, Email account */}
+                   Managing, monitoring and troubleshooting daily batch and backup processes.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  สำรองข้อมูลและตั้งค่าอุปกรณ์อาทิ veeam, switch cisco, firewall, router, server, cctv
+                  {/* สำรองข้อมูลและตั้งค่าอุปกรณ์อาทิ veeam, switch cisco, firewall, router, server, cctv */}
+                  Develop software and programs to meet the IT needs of a company.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  ดูแลจัดการสต็อก และเบิก-จ่าย อุปกรณ์สารสนเทศ
+                  {/* ดูแลจัดการสต็อก และเบิก-จ่าย อุปกรณ์สารสนเทศ */}
+                  Researched, tested, or verified proper functioning of software patches and fixes.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  ศึกษาและเรียนรู้ Tool และ Technology ใหม่ๆ เพื่อพัฒนาระบบภายในองค์กร
+                  {/* ศึกษาและเรียนรู้ Tool และ Technology ใหม่ๆ เพื่อพัฒนาระบบภายในองค์กร */}
+                  Configuring, deploying and maintaining the Cisco firewalls, switches and routers.
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="serviers__modal-info">
-                  ออกแบบและพัฒนา Web Application เพื่อใช้งานภายในองค์กร
+                  {/* ออกแบบและพัฒนา Web Application เพื่อใช้งานภายในองค์กร */}
+                  Conducted computer technology training with all new staff.
                   </p>
                 </li>
               </ul>

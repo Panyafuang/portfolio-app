@@ -92,6 +92,21 @@ const Qualification = () => {
               ? "qualification__content qualification__content-active"
               : "qualification__content"
           }>
+          {/* NYC */}
+          <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">Programmer</h3>
+                <span className="qualification__subtitle">N.Y.C. Industry Co.,Ltd. - Samut Prakan</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i> Oct. 2022 - Dec. 2022
+                </div>
+              </div>
+            </div>
           {/* Easyfo */}
             <div className="qualification__data">
               <div>
@@ -107,7 +122,6 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-
             {/* Agrorepax */}
             <div className="qualification__data">
               <div></div>
@@ -123,7 +137,6 @@ const Qualification = () => {
                 </div>
               </div>
             </div>
-
             {/* Ogisokogy */}
             <div className="qualification__data">
               <div>
@@ -139,7 +152,6 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-
             {/* หจก. ชัยโทรทัศน์ */}
             <div className="qualification__data">
               <div></div>
