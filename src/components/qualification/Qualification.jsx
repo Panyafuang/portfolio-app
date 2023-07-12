@@ -42,7 +42,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Bachelor Degrees</h3>
-                <span className="qualification__subtitle">มหาวิทยาลัยราชภัฏสุรินทร์ - เทคโนโลยีสารสนเทศ</span>
+                <span className="qualification__subtitle">Surindra Rajabhat University - Bachelor Of Science In Information Technology</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2010 - 2014
                 </div>
@@ -62,7 +62,7 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">Vocational Certificate</h3>
-                <span className="qualification__subtitle">วิทยาลัยสารพัดช่างสุรินทร์ - พณิชยการ</span>
+                <span className="qualification__subtitle">Surin Polytechnic College - Accounting</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2007 - 2009
                 </div>
@@ -72,7 +72,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Junior High School</h3>
-                <span className="qualification__subtitle">โรงเรียนเจริญราษฏร์วิทยา</span>
+                <span className="qualification__subtitle">Jaroenratwittaya School</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2004 - 2006
                 </div>
@@ -101,9 +101,9 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">Programmer</h3>
-                <span className="qualification__subtitle">N.Y.C. Industry Co.,Ltd. - Samut Prakan</span>
+                <span className="qualification__subtitle">WALL TECHNOLOGY CO., LTD. - Nakhon Pathom</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Oct. 2022 - Dec. 2022
+                  <i className="uil uil-calendar-alt"></i> Apr. 2023 - Jul. 2023
                 </div>
               </div>
             </div>
