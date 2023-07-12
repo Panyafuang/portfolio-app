@@ -92,7 +92,7 @@ const Qualification = () => {
               ? "qualification__content qualification__content-active"
               : "qualification__content"
           }>
-          {/* NYC */}
+          {/* WALL TECHNOLOGY */}
           <div className="qualification__data">
               <div></div>
               <div>
