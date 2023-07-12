@@ -110,7 +110,7 @@ const Qualification = () => {
           {/* Easyfo */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Programmer</h3>
+                <h3 className="qualification__title">Programmer</h3>
                 <span className="qualification__subtitle">EASYFO CO., LTD. - Bangkok</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> Aug. 2020 - Sept. 2022
