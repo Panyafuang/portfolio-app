@@ -64,7 +64,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Vocational Certificate</h3>
                 <span className="qualification__subtitle">Surin Polytechnic College - Accounting</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2007 - 2009
+                  <i className="uil uil-calendar-alt"></i> 2006 - 2009
                 </div>
               </div>
             </div>
@@ -92,7 +92,7 @@ const Qualification = () => {
               ? "qualification__content qualification__content-active"
               : "qualification__content"
           }>
-          {/* WALL TECHNOLOGY */}
+          {/* AQUA NISHIHARA CORPORATION LIMITED */}
           <div className="qualification__data">
               <div></div>
               <div>
@@ -101,9 +101,9 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">Programmer</h3>
-                <span className="qualification__subtitle">WALL TECHNOLOGY CO., LTD. - Nakhon Pathom</span>
+                <span className="qualification__subtitle">AQUA NISHIHARA CORPORATION LIMITED - Bangkok</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Apr. 2023 - Jul. 2023
+                  <i className="uil uil-calendar-alt"></i> Sep. 2023 - Apr. 2024
                 </div>
               </div>
             </div>
@@ -143,7 +143,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Technical Intern Training Program</h3>
                 <span className="qualification__subtitle">OGISOKOGYO CO.LTD - JAPAN</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Nov. 2017 - May 2018
+                  <i className="uil uil-calendar-alt"></i> Sep. 2017 - May 2018
                 </div>
               </div>
 
