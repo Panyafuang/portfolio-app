@@ -92,19 +92,19 @@ const Qualification = () => {
               ? "qualification__content qualification__content-active"
               : "qualification__content"
           }>
-          {/* AQUA NISHIHARA CORPORATION LIMITED */}
+          {/* BHUMIRAJANAKARINDRA KIDNEY INSTITUTE HOSPITAL */}
           <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
               <div>
                 <h3 className="qualification__title">Application Support</h3>
                 <span className="qualification__subtitle">BHUMIRAJANAKARINDRA KIDNEY INSTITUTE HOSPITAL - Bangkok</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> Jul. 2024 - Present
                 </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
               </div>
             </div>
           {/* AQUA NISHIHARA CORPORATION LIMITED */}
@@ -152,22 +152,6 @@ const Qualification = () => {
                 </div>
               </div>
             </div>
-            {/* Ogisokogy */}
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Technical Intern Training Program</h3>
-                <span className="qualification__subtitle">OGISOKOGYO CO.LTD - JAPAN</span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Sep. 2017 - May 2018
-                </div>
-              </div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-            </div>
-
           </div>
         </div>
       </div>
