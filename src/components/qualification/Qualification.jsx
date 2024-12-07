@@ -100,6 +100,21 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
+                <h3 className="qualification__title">Application Support</h3>
+                <span className="qualification__subtitle">BHUMIRAJANAKARINDRA KIDNEY INSTITUTE HOSPITAL - Bangkok</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i> Jul. 2024 - Present
+                </div>
+              </div>
+            </div>
+          {/* AQUA NISHIHARA CORPORATION LIMITED */}
+          <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
                 <h3 className="qualification__title">Programmer</h3>
                 <span className="qualification__subtitle">AQUA NISHIHARA CORPORATION LIMITED - Bangkok</span>
                 <div className="qualification__calendar">
@@ -107,7 +122,7 @@ const Qualification = () => {
                 </div>
               </div>
             </div>
-          {/* Easyfo */}
+            {/* Easyfo */}
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Programmer</h3>
@@ -150,21 +165,6 @@ const Qualification = () => {
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
-              </div>
-            </div>
-            {/* หจก. ชัยโทรทัศน์ */}
-            <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <h3 className="qualification__title">IT Support</h3>
-                <span className="qualification__subtitle">หจก.ชัยโทรทัศน์ - Surin</span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Dec. 2014 - Aug. 2016
-                </div>
               </div>
             </div>
 

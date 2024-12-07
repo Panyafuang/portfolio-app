@@ -22,10 +22,10 @@ export const Footer = () => {
           <a href="http://line.me/ti/p/~panyafuang" className="footer__social-link" target="_blank">
             <i className="fa-brands fa-line"></i>
           </a>
-          <a href="https://www.facebook.com/thanadilok.panyafuang" className="footer__social-link" target="_blank">
+          <a href="https://www.facebook.com" className="footer__social-link" target="_blank">
             <i className='bx bxl-facebook-square'></i>
           </a>
-          <a href="https://twitter.com/thanadilok1?ref_src=twsrc%5Etfw" className="footer__social-link" target="_blank">
+          <a href="https://twitter.com" className="footer__social-link" target="_blank">
             <i className="bx bxl-twitter"></i>
           </a>
         </div>
