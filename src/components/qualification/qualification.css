@@ -64,6 +64,11 @@
   font-size: var(--smaller-font-size);
 }
 
+.qualification__work-experience {
+  font-size: var(--smaller-font-size);
+  margin-top: 1rem;
+}
+
 .qualification__rounder {
   display: inline-block;
   width: 13px;

@@ -53,8 +53,8 @@ const Data = () => {
         ></path>
       </svg>
       </h1>
-      <h3 className='home__subtitle'>Programmer, IT Support</h3>
-      <p className="home__description">I am hard working, self-motivated with 3 years experience in designing, developing and testing multiple web-based applications incorporating a range of technologies. and 3 years of experience in repairing computer hardware and diagnosing and resolving network and software issues. skilled in maximizing productivity by patching and upgrading various applications, planning, installing, and configuring workstation.</p>
+      <h3 className='home__subtitle'>Programmer, IT</h3>
+      <p className="home__description">Hardworking and self-motivated IT professional with 3 years of experience in web development using modern technologies. Skilled in building scalable, user-focused, and responsive applications, with expertise in optimizing system performance through patching and upgrades. Proven ability in planning, installing, and configuring workstations for operational efficiency, and collaborating in cross-functional teams to deliver quality products on time.</p>
       <a href="#contact" className="button button--flex">Say Hello
         <svg
           class="button__icon"

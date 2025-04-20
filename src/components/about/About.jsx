@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Everthing started with passion for web technologies, Development to produce high-quality websites and exceptional user experience, I have years of experience and many clients are happy with the projects carried out.
+          Everything started from a passion for web technologies and a commitment to developing high-quality websites with exceptional user experiences. With several years of experience, I have successfully delivered projects that meet client expectations and satisfaction.
           </p>
           <a download="" href={Resume} className="button button--flex">Download Resume <svg
             class="button__icon"
